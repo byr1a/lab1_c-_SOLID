@@ -1,0 +1,56 @@
+M:\Резерв драйв\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.exe
+M:\Резерв драйв\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.deps.json
+M:\Резерв драйв\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.runtimeconfig.json
+M:\Резерв драйв\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.dll
+M:\Резерв драйв\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.pdb
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.GeneratedMSBuildEditorConfig.editorconfig
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfoInputs.cache
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfo.cs
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.csproj.CoreCompileInputs.cache
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.dll
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\refint\GameFind.dll
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.pdb
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.genruntimeconfig.cache
+M:\Резерв драйв\Проекты\GameFind\GameFind\obj\Debug\net8.0\ref\GameFind.dll
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.exe
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.deps.json
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.runtimeconfig.json
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.dll
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\bin\Debug\net8.0\GameFind.pdb
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.GeneratedMSBuildEditorConfig.editorconfig
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfoInputs.cache
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfo.cs
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.csproj.CoreCompileInputs.cache
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.dll
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\refint\GameFind.dll
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.pdb
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\GameFind.genruntimeconfig.cache
+M:\Резерв драйв\C#\Проекты\GameFind\GameFind\obj\Debug\net8.0\ref\GameFind.dll
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\bin\Debug\net8.0\GameFind.exe
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\bin\Debug\net8.0\GameFind.deps.json
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\bin\Debug\net8.0\GameFind.runtimeconfig.json
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\bin\Debug\net8.0\GameFind.dll
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\bin\Debug\net8.0\GameFind.pdb
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfoInputs.cache
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfo.cs
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.csproj.CoreCompileInputs.cache
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.dll
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\refint\GameFind.dll
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.pdb
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\GameFind.genruntimeconfig.cache
+C:\Users\vasa7\OneDrive\Рабочий стол\GameFind\obj\Debug\net8.0\ref\GameFind.dll
+D:\c#_lab_2024_2025\GameFind\bin\Debug\net8.0\GameFind.exe
+D:\c#_lab_2024_2025\GameFind\bin\Debug\net8.0\GameFind.deps.json
+D:\c#_lab_2024_2025\GameFind\bin\Debug\net8.0\GameFind.runtimeconfig.json
+D:\c#_lab_2024_2025\GameFind\bin\Debug\net8.0\GameFind.dll
+D:\c#_lab_2024_2025\GameFind\bin\Debug\net8.0\GameFind.pdb
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfoInputs.cache
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.AssemblyInfo.cs
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.csproj.CoreCompileInputs.cache
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.dll
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\refint\GameFind.dll
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.pdb
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\GameFind.genruntimeconfig.cache
+D:\c#_lab_2024_2025\GameFind\obj\Debug\net8.0\ref\GameFind.dll
